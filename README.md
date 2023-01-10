@@ -10,3 +10,17 @@ The tailwind CSS component list utility to help integrators and designers
 
 ## Form
 - login form 1 : https://codepen.io/Sacha_Durand/pen/BaPKvbL
+
+## pricing table
+<details>
+  <summary>view pricing table</summary>
+  
+  - TODO : link
+</details>
+
+## button
+<details>
+  <summary>view button</summary>
+  
+  - TODO : link
+</details>
