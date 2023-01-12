@@ -20,7 +20,8 @@ The tailwind CSS component list utility to help integrators and designers
 <details>
   <summary>👆view forms</summary>
   
-  - login form 1 : https://codepen.io/Sacha_Durand/pen/BaPKvbL
+  - basic auth form : https://codepen.io/Sacha_Durand/pen/BaPKvbL
+  - advanced password form : https://codepen.io/emr3rden/pen/LYBpgRR
 </details>
 
 
