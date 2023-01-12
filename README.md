@@ -21,7 +21,7 @@ The tailwind CSS component list utility to help integrators and designers
   <summary>👆view forms</summary>
   
   - basic auth form : https://codepen.io/Sacha_Durand/pen/BaPKvbL
-  - advanced password form : https://codepen.io/emr3rden/pen/LYBpgRR
+  - advanced dark password form : https://codepen.io/emr3rden/pen/LYBpgRR
 </details>
 
 
