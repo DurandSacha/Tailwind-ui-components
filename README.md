@@ -35,5 +35,5 @@ The tailwind CSS component list utility to help integrators and designers
 <details>
   <summary>👆 view button</summary>
   
-  - TODO : link
+  - basic button : https://codepen.io/chemouna/pen/zYrqyMw
 </details>
