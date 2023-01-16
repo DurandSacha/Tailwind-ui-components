@@ -38,3 +38,10 @@ The tailwind CSS component list utility to help integrators and designers
   
   - basic button : https://codepen.io/chemouna/pen/zYrqyMw
 </details>
+
+## Various
+<details>
+  <summary>👆 view various components</summary>
+  
+  - basic calendar : https://codepen.io/Harishash/pen/bGoZMdN
+</details>
