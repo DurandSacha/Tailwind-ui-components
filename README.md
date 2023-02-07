@@ -7,6 +7,8 @@ The tailwind CSS component list utility to help integrators and designers
   
   - basic large card : https://codepen.io/Sacha_Durand/pen/eYjJGXN
   - contact large card : https://codepen.io/Sacha_Durand/pen/KKBzvvW
+  - line card : https://codepen.io/nicklove/pen/dagYZX
+  - product card (e-shop) : https://codepen.io/stackdiary/pen/XWzNedN
 </details>
 
 ## Error page
@@ -29,7 +31,7 @@ The tailwind CSS component list utility to help integrators and designers
 <details>
   <summary>👆view pricing table</summary>
   
-  - TODO : link
+  - complete pricing table : https://codepen.io/rhythm19/pen/Vwvoqwa
 </details>
 
 ## Button
@@ -37,6 +39,7 @@ The tailwind CSS component list utility to help integrators and designers
   <summary>👆 view button</summary>
   
   - basic button : https://codepen.io/chemouna/pen/zYrqyMw
+  - simple button : https://codepen.io/salindalakmal/pen/NWGEVXe
 </details>
 
 ## Various
