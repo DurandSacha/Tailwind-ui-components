@@ -47,4 +47,5 @@ The tailwind CSS component list utility to help integrators and designers
   <summary>👆 view various components</summary>
   
   - basic calendar : https://codepen.io/Harishash/pen/bGoZMdN
+  - F.A.Q component : https://codepen.io/linatabla/pen/GRmyQVd
 </details>
