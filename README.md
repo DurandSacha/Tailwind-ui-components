@@ -1,5 +1,5 @@
 # Tailwind-ui-components
-The tailwind CSS component list utility to help integrators and designers
+The tailwind CSS component list utility to help integrators and designers.
 
 ## Card
 <details>
