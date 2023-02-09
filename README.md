@@ -40,6 +40,7 @@ The tailwind CSS component list utility to help integrators and designers
   
   - basic button : https://codepen.io/chemouna/pen/zYrqyMw
   - simple button : https://codepen.io/salindalakmal/pen/NWGEVXe
+  - toggle button : https://codepen.io/lhermann/pen/EBGZRZ
 </details>
 
 ## Various
