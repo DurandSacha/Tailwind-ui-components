@@ -50,3 +50,10 @@ The tailwind CSS component list utility to help integrators and designers
   - basic calendar : https://codepen.io/Harishash/pen/bGoZMdN
   - F.A.Q component : https://codepen.io/linatabla/pen/GRmyQVd
 </details>
+
+## Social
+<details>
+  <summary>👆 view socials components</summary>
+  
+  - instagram avatar : https://codepen.io/gumisu/pen/bGRNWdL
+</details>
