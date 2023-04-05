@@ -9,6 +9,7 @@ The tailwind CSS component list utility to help integrators and designers
   - contact large card : https://codepen.io/Sacha_Durand/pen/KKBzvvW
   - line card : https://codepen.io/nicklove/pen/dagYZX
   - product card (e-shop) : https://codepen.io/stackdiary/pen/XWzNedN
+  - large card rounded : https://codepen.io/abr4xas/pen/QWEYJzN
 </details>
 
 ## Error page
@@ -57,3 +58,11 @@ The tailwind CSS component list utility to help integrators and designers
   
   - instagram avatar : https://codepen.io/gumisu/pen/bGRNWdL
 </details>
+
+## email template
+<details>
+  <summary>👆 view emails templates</summary>
+  
+  - basic email template : https://codepen.io/koca/pen/XqPNYX
+</details>
+
